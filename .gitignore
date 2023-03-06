@@ -1,1 +1,12 @@
-cmake-build-debug/
+cmake-build-*/
+.idea/
+CMakeFiles
+.cmake
+Makefile
+.ninja_*
+build.ninja
+cmake_install.cmake
+CMakeCache.txt
+pcre_playground
+pcre_playground.*
+Testing
